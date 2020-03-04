@@ -1,0 +1,10 @@
+{
+  // JS rules
+  // https://eslint.org/
+  "env": {
+    // "jest/globals": true,
+    "browser": true
+  },
+  "extends": "airbnb/base"
+  // "plugins": ["jest"]
+}

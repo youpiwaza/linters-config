@@ -1,0 +1,5 @@
+{
+  // style configuration
+  // https://stylelint.io/
+  "extends": "stylelint-config-airbnb"
+}
