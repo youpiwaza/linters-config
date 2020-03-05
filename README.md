@@ -6,7 +6,9 @@ All the usual linters config files for a basic project
 
 | Name | For | Uri |
 |---------------|---------------------------------------|--------------------------------------|
-| Ansible/YAML lint | For ansible cookbooks | [https://docs.ansible.com/ansible-lint/](https://docs.ansible.com/ansible-lint/), via [Ansible VSCode plugin](https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible) |
+| Ansible | For ansible cookbooks // KO ? | [https://docs.ansible.com/ansible-lint/](https://docs.ansible.com/ansible-lint/), via [Ansible VSCode plugin](https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible) |
+| YAML lint | For ansible cookbooks | [VSCode Yaml extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) |
+| Ansible lint | For ansible cookbooks, from CLI `ansible-lint` | [Ansible lint doc](https://docs.ansible.com/ansible-lint/) |
 | editor config | All around editor config (tabs, etc.) | [(https://editorconfig.org/)](https://editorconfig.org/) |
 | ESlint | Javascript & after | [https://eslint.org/](https://eslint.org/) |
 | git ignore | Prevent unwanted files in commits |  [https://git-scm.com/docs/gitignore](https://git-scm.com/docs/gitignore) |
